@@ -23,5 +23,4 @@ The model is built step by step, including weight initialization, error calculat
 - To run the code, ensure you have Python installed along with NumPy.
 - Clone this repository and navigate to the project folder:
   git clone https://github.com/Hi-Manta/Linear-Regression-from-scratch
-  cd Linear-Regression-from-scratch
 - Then, run the Python script.
