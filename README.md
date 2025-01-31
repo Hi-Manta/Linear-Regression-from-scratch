@@ -1,16 +1,16 @@
-#A Linear Regression model from scratch
+# A Linear Regression model from scratch
 
-##Overview
+## Overview
 This repository contains an implementation of Linear Regression from scratch using only the NumPy library. 
 The model is built step by step, including weight initialization, error calculation, and gradient descent optimization.
 
-##Features
+## Features
 - Implements Linear Regression without using any built-in ML libraries.
 - Uses Root Mean Squared Error (RMSE) for loss calculation.
 - Performs gradient descent optimization to update weights.
-- Supports custom learning rate and number of iterations.
+- Supports custom learning rate and many iterations.
 
-##Code Explanation
+## Code Explanation
 1. Initialize Train set(x) and Target set(y)
 2. Initialize Random Weights(w,b)
 3. Calculate Gradient(w+b in this case)
